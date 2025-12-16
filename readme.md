@@ -39,7 +39,7 @@ project/
     * TF-IDF (Character N-gram) untuk Random Forest.
 
 ## 🧠 Model & Evaluasi
-Kami melatih dan mengevaluasi 3 model dengan metrik **Akurasi**:
+melatih dan mengevaluasi 3 model dengan metrik **Akurasi**:
 
 | Model | Deskripsi | Input Features |
 | :--- | :--- | :--- |

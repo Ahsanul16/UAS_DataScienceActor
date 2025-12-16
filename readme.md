@@ -1,7 +1,7 @@
 # Project: Actor Gender Classification based on Names
 
 Proyek Machine Learning ini bertujuan untuk mengklasifikasikan gender aktor ('M' atau 'F') berdasarkan nama panggung mereka. Proyek ini membandingkan performa tiga pendekatan model yang berbeda: Baseline, Machine Learning Tradisional, dan Deep Learning.
-
+link laporan dan video penjelasan: https://drive.google.com/file/d/16wdJKPkapq-29QC3AcwxXu5fVnZx7Kwj/view?usp=sharing
 
 ## 📂 Struktur Folder
 project/

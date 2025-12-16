@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- 2. Dataset (PENTING: Jangan commit data) ---
+data/
+*.html
+*.csv
+*.xlsx
+
+# --- 3. Model Files (Binary files berukuran besar) ---
+models/
+*.pkl
+*.h5
+*.keras
+
+# --- 4. Hasil Visualisasi (Generated Images) ---
+# Biasanya hasil run tidak dicommit, tapi opsional.
+# Uncomment baris bawah jika tidak ingin meng-upload gambar hasil generate
+# images/r/
+
+# --- 5. System Files & Environment ---
+.DS_Store
+.env
+venv/
+env/
+"""

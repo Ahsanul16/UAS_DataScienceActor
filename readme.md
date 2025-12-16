@@ -2,6 +2,7 @@
 
 Proyek Machine Learning ini bertujuan untuk mengklasifikasikan gender aktor ('M' atau 'F') berdasarkan nama panggung mereka. Proyek ini membandingkan performa tiga pendekatan model yang berbeda: Baseline, Machine Learning Tradisional, dan Deep Learning.
 
+
 ## 📂 Struktur Folder
 project/
 │
@@ -21,6 +22,8 @@ project/
 │
 ├── requirements.txt        # Daftar library python
 └── README.md               # Dokumentasi Proyek
+
+
 
 ## 📊 Dataset
 * **Sumber:** `actors.html` (Gio's Movie files).
